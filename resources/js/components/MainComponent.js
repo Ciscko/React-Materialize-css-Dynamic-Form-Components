@@ -1,14 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import App from './App';
 import ModularForm from './FormComponents/ModularForm';
-import Header from './Header';
 //import GenForm from './FormComponents/GenForm'
 
 function MainComponent() {
     return (
         <div>
-           <Header/>
-          <ModularForm/>
+             <App/>
         </div>
     );
 }

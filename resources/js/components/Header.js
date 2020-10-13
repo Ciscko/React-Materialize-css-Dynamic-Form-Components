@@ -4,7 +4,7 @@ import M from 'materialize-css'
 const Header = () => {
     return (
         <div className="container center">
-               <h2>Formik Form Components</h2> <hr></hr>
+               <h5>Materialize-css React Components</h5><hr></hr>
         </div>
     )
 }

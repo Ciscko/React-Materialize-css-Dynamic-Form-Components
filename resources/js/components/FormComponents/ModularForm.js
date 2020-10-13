@@ -48,7 +48,6 @@ const checkboxOptions = [
             >
                 {
                     (formProps) => {
-                        
                         return (
                             <Form>
                                 <FormControl type="text" name='name'  label='Full Name' />
