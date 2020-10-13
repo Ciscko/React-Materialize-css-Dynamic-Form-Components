@@ -1,2 +1,2 @@
-# React-Materialize-css-Dynamic-Form-Components
-Materilize-css Form components built with Formik and Yup, with Laravel 8.x backend.
+# React-Materialize-css-Dynamic-Components
+Materilize-css components made with React and Formik for forms.
