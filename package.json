@@ -28,6 +28,8 @@
     "dependencies": {
         "formik": "^2.2.0",
         "materialize-css": "^1.0.0-rc.2",
+        "react-paginate": "^6.5.0",
+        "react-router-dom": "^5.2.0",
         "yup": "^0.29.3"
     }
 }

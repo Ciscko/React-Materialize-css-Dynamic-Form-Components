@@ -1,13 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { BrowserRouter } from 'react-router-dom';
 import App from './App';
-import ModularForm from './FormComponents/ModularForm';
-//import GenForm from './FormComponents/GenForm'
 
 function MainComponent() {
     return (
         <div>
-             <App/>
+            <BrowserRouter>
+                <App/>
+            </BrowserRouter>
         </div>
     );
 }

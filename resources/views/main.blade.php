@@ -9,10 +9,11 @@
         <link href="{{ mix('/css/app.css') }}" rel="stylesheet"/>
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+        <!-- Icons -->
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     </head>
     <body>
       <div id="MainComponent">
-
       </div>
       <script src="{{ mix('/js/app.js') }}"></script>
     </body>
